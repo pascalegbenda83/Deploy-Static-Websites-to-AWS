@@ -1,0 +1,22 @@
+
+DEPLOYING STATIC WEBSITES TO S3 
+
+URL: http://mystaticwebsite-project1.s3-website-us-east-1.amazonaws.com
+
+
+NOTE
+
+Changed "Travel Blog" in index.html to "Pascal Egbenda, Cloud DevOps, Nanodegree". Screenshot seen in pdf file.
+
+
+DISTRIBUTE WEBSITE VIA CLOUDFRONT
+
+URL: http://d312v6dtr2bli7.cloudfront.net 
+
+
+NOTE
+
+Added index.html as the Default Root Object so there will be no need adding index.html after the domain name d312v6dtr2bli7.cloudfront.net and can be seen in the pdf file.
+
+
+
